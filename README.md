@@ -2,7 +2,7 @@
 
 ## Overview 📚
 
-This Markdown document describes the Python trading bot that secured a second-place finish in the Jane Street Electronic Trading Challenge (FTTP). The bot participated in the challenge and successfully executed trading strategies against other competitors' bots on the provided exchange platform.
+Overview for the Python-based trading bot that secured a second-place finish in the Jane Street FTTP Electronic Trading Challenge (ETC). The bot participated in the challenge and successfully executed the below mentioned trading strategies against other competitors' bots on the provided exchange platform.
 
 ## Bot Implementation 💻
 
