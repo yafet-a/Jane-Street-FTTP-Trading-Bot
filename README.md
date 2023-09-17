@@ -16,7 +16,7 @@ Before running the bot, some initial configuration is required. The team name is
 
 The main trading logic of the bot is executed within the `main` function. Here are the main steps performed by the bot:
 
-1. **Initialization**: The bot establishes a connection to the exchange and receives an initial "hello" message containing information about its positions.
+1. **Initialisation**: The bot establishes a connection to the exchange and receives an initial "hello" message containing information about its positions.
 
 2. **Trading Strategies**: The bot employs various trading strategies for different symbols traded on the exchange. For example, it calculates fair values for symbols like "VALBZ" and "VALE" based on the top bid and ask prices and decides whether to buy or sell.
 
