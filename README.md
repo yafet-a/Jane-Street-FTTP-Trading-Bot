@@ -1,4 +1,4 @@
-# Jane Street FTTT Trading Game Bot - Second Place Finish
+# Jane Street FTTP Trading Game Bot - Second Place Finish
 
 ## Overview
 
