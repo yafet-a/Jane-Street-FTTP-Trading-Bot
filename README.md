@@ -1,18 +1,18 @@
-# Jane Street FTTP Trading Game Bot - Second Place Finish
+# Jane Street FTTP Trading Game Bot - Second Place Finish 🏆
 
-## Overview
+## Overview 📚
 
-This Markdown document describes the Python trading bot that secured a second-place finish in the Jane Street Electronic Trading Challenge (FTTT). The bot participated in the challenge and successfully executed trading strategies against other competitors' bots on the provided exchange platform.
+This Markdown document describes the Python trading bot that secured a second-place finish in the Jane Street Electronic Trading Challenge (FTTP). The bot participated in the challenge and successfully executed trading strategies against other competitors' bots on the provided exchange platform.
 
-## Bot Implementation
+## Bot Implementation 💻
 
 The bot's implementation is provided in a Python script called `bot.py`. Below are some key components and strategies employed by the bot:
 
-### Configuration
+### Configuration ⚙️
 
 Before running the bot, some initial configuration is required. The team name is set at the beginning of the script using the `team_name` variable. Additionally, the script can be run with different parameters to connect to the production exchange or one of the test exchanges.
 
-### Main Loop
+### Main Loop 🔄
 
 The main trading logic of the bot is executed within the `main` function. Here are the main steps performed by the bot:
 
@@ -28,11 +28,11 @@ The main trading logic of the bot is executed within the `main` function. Here a
 
 6. **End of Round**: The bot continues trading until a "close" message is received, indicating the end of the round.
 
-### Exchange Connection
+### Exchange Connection 🔌
 
 The `ExchangeConnection` class handles the connection to the exchange, sending messages, and reading responses. It also manages order IDs and timestamps to ensure compliance with exchange rate limits.
 
-## How to Run the Bot
+## How to Run the Bot 🚀
 
 To run the bot, follow these steps:
 
